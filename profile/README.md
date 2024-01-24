@@ -14,44 +14,112 @@ Here are some of the core features and benefits:
 
 - It provides code auto-completion, thereby saving you from typing out the whole line of code.
 - It quickly learns from your coding style and gives suggestions based on context to help you develop and innovate quickly.
-- GitHub Copilot supports several languages like Python, C, C++, JavaScript, among others. But its functionality is not limited to these languages alone; it supports almost all languages on GitHub.
+- GitHub Copilot supports almost all languages on GitHub.
 - It is not mandatory for your code to be present on GitHub. GitHub Copilot can assist you whether your repo is on GitHub or not.
-- GitHub Copilot can integrate with numerous IDEs such as Visual Studio Code, Visual Studio, Vim, Neovim, JetBrains IDEs, and Azure Data Studio.
 
 Rest assured, GitHub Copilot is not just a dumb code generator; it can understand your comments to provide more contextually accurate suggestions. 
 
-## GitHub Copilot - When to Use? :thinking:
 
-With its extensive range of usage, GitHub Copilot can be your go-to solution for the following tasks:
+## Getting Access to GitHub Copilot for NetApp IT? :key:
 
-- **Code Auto Completion**: GitHub Copilot can write out a line of code, a function, or even an entire class for you. This auto-completion feature is beneficial when coding under strict deadlines or when you're struggling to remember the correct syntax.
-- **Quick Learning**: GitHub Copilot's code suggestions can help you learn a new language by showing how to write a function or a statement in the new language.
-- **Code Comments**: With the '/explain' command, you can ask GitHub Copilot what a certain function does. It'll provide a quick explanation that can be used for inline documentation or just your understanding.
-- **SQL Query**: It can also help develop SQL queries based on the table and field names you enter.
-- **Contextual code suggestions**: GitHub Copilot understands the context of your code - what it does and what it's supposed to do. This understanding helps GitHub Copilot provide accurate suggestions.
+> This access provisioning process is only for NetApp IT employees 🏢. if you are not part of NetApp IT, please check with your manager on the appropriate process for your org.
 
-## How to Access GitHub Copilot? :key:
 
-The process differs a bit for existing Copilot users and new users.
+### 📝 Prerequisites
 
-### For Existing Copilot Users:
+As a first step, you need to have an Active Github account 🧑‍💻 which is linked with your NetApp Email ID. Hence the below 3 Prerequisites need to be completed : 
 
-- **VS Code users**: Follow this [link](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide) to get GitHub Copilot on your VS Code.
-- **JetBean users**: Currently, the plugin is still in beta and shouldn't be installed yet.
+1. **Link NetApp email with GitHub Account**: If you haven't already, please create a GitHub account using your NetApp email. If you already have a personal GitHub account, you can simply add your SSO NetApp email address (username@netapp.com) by visiting this [GitHub](https://github.com/) and navigating to 'Settings → Emails' 📩.
+2. **Enable Two-Factor Authentication**: Ensure that your GitHub account has Two-Factor Authentication (2FA) enabled 🔐. You can verify this by visiting this [link](https://github.com/settings/security) and checking for a green 'Enabled' tag next to Two-Factor Authentication.
+3. **Join NetApp GitHub SSO NG Group**: Join the ng-github-users@netapp.com group by visiting this [link](https://neat.hq.netapp.com/nag). Please note that it can take up to an hour for Azure to sync with the Nag tool ⏱️.
 
-### New User Registration for NetApp IT: 
-**Coming Soon** - Notification will be sent on new user boarding poronce once we are ready!
+### 📥 Request for Access
+
+Once you've completed the above prerequisites, you can go to this [Github Copilot Intake Form](https://forms.office.com/r/nHefgFk4zf) 📋
+
+<u><i>This form requires below key details</u></i>: 
+
+
+1) **Request Intake**: Start by filling out the form with your Github Account ID (Follow the prerequisites) and provide some high-level details on your need for GitHub Copilot (How are you planning to utilize it).  
+2) **Manager's Approval**: Just take a formal email approval from your reporting Manager that you require Github Copilot IT and attach the same in the form.
+
+<u><i>Once you submit the form the access provisioning will take up to 2 days as below</u></i>:
+
+3) **Access Assignment**: The GenAI Core team will review your request and add you to the required GitHub organization and team to assign access to the Copilot.
+4) **Confirmation Email**: You will receive a few email notifications from GitHub as and when we add your GitHub ID to the IT Copilot organization followed by an email confirmation from our team with user setup instructions.
+
+*Note: This Github Copilot Intake form will be moved to the ServiceNow catalog shortly. You will be notified accordingly!*
+
+### 📌 Important Notes
+- The subscription cost for Copilot Business is ***$19 USD*** per user per month.
+- If you currently have access to Copilot Business but do not require it anymore, please send an email to ng-it-genai-coe@netapp.com to cancel your subscription.
+- Please note that if a user is inactive, their access to Copilot Business will be revoked at the beginning of the following month.
+- Copilot is primarily for internal tasks like code assistance, and test automation, and its code shouldn't be used directly in external-facing products. 
+
+
+> Please visit the provided links to understand our [AI Tools, IP Protection Ground Rules](https://netapp.sharepoint.com/sites/LegalCentral/SitePages/AI-Tools-Ground-Rules--Protect-our-IP.aspx), and [Information Classification Policy](https://netapp.sharepoint.com/sites/LegalCentral/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLegalCentral%2FShared%20Documents%2FDataGovernance%2FNetApp%20Information%20Classification%20Policy%2Epdf&parent=%2Fsites%2FLegalCentral%2FShared%20Documents%2FDataGovernance&p=true&ga=1).
+{.is-info}
+
+
+## Access GitHub Copilot Community 👥
+
+Once you've been granted access 🤝🏻  to GitHub Copilot for IT, you'll spot its presence on your active [organization's list](https://github.com/settings/organizations). Additionally,  you need to check if your GitHub ID has been added to the [Active Copilot User List](https://github.com/orgs/NetApp-IT-Copilot/teams/active-users) 🌍.  
+ 
+If you have received confirmation on the access but are still not able to locate your GitHub ID under the active copilot user list. please reachout to ng-it-genai-coe@netapp.com.
+ 
+For an in-depth understanding of GitHub Copilot and its capabilities 💪 , we recommend visiting the official GitHub Copilot documentation at About [GitHub Copilot Individual](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-individual).
+
+## 🛠️ Setting Up GitHub Copilot
+
+
+GitHub Copilot currently supports a wide range of IDEs 🙌 , allowing you to view and incorporate its suggestions directly within your preferred editor. For detailed guidance on supported IDEs and how to configure Copilot on various platforms 🎯 , please refer to the relevant links provided below:
+
+| IDE 🖥️ | GitHub Documentation 📝 |
+| --- | --- |
+| Visual Studio Code | [https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=vscode](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=vscode) |
+| Visual Studio | [https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=visualstudio](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=visualstudio) |
+| Vim/Neovim | [https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=vimneovim](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=vimneovim) |
+| JetBrains IDEs | [https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=jetbrains](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=jetbrains) |
+| Azure Data Studio | [https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=azure_data_studio](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot?tool=azure_data_studio) |
+
+
+## Using GitHub Copilot - Commands :rainbow:
+
+GitHub Copilot Chat is an interactive interface that allows you to communicate with GitHub Copilot directly from a supported IDE. It enables you to pose coding-related queries and receive responses instantly, eliminating the need to sift through documentation or browse online forums for answers. It's a convenient tool that brings coding assistance and information right to your workspace.
+
+Here are a few slash commands that you can use and what they do:
+
+- `'/explain'`: When a function is highlighted and you type this command in the chat window, Copilot will explain what the function does.
+- `'/fix'`: If you highlight a function and explain the bug you are encountering, Copilot will provide a solution to fix the issue.
+- `'/tests'`: By highlighting a function and typing this command, you can ask Copilot to generate a unit test for that function. 
+- `'/new'`: You can type a few sentences on what you want to create, and GitHub Copilot will either create the project or explain how to create it.
+> Follow this [link](https://confluence.ngage.netapp.com/display/NGAGE/Copilot#Copilot-Commands) for detailed examples of each of these commands.
+
+## Quick Reads :bookmark_tabs:
+Here are some quick reads to help you get the most out of it 📖 :
+
+- [GitHub Copilot Features](https://copilot.github.com/)
+- [Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
+- [Developer productivity with GitHub Copilot](https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/)
+- [Things you didn’t know you could do with GitHub Copilot](https://github.blog/2022-09-14-8-things-you-didnt-know-you-could-do-with-github-copilot/)
+- [Troubleshooting Guide](https://docs.github.com/en/copilot/troubleshooting-github-copilot)
+
 
 ## Further Learning :books:
 
-LinkedIn Learning Course on GitHub Copilot - [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=github+copilot)
+Follow these for visual guide on GitHub Copilot 👀 :
+- [Pragmatic techniques to get the most out of GitHub Copilot](https://www.youtube.com/watch?v=CwAzIpc4AnA&list=PLCW45XdPNUHAc1Em5ltEEDYjyJ_apGJWp&index=9)
+- [GitHub Universe 2023 opening keynote - Copilot in the Age of AI](https://www.youtube.com/watch?v=NrQkdDVupQE)
+- [LinkedIn Learning Course on GitHub Copilot](https://www.linkedin.com/learning/search?keywords=github+copilot)
+- [Udemy Course on GitHub Copilot: Use AI to write code for you!](https://netapp.udemy.com/course/github-copilot/)
 
-Udemy Course on GitHub Copilot: Use AI to write code for you! - [Udemy Course](https://netapp.udemy.com/course/github-copilot/)
+## Useful References 🗂️:
 
-## Useful Reads :bookmark_tabs:
+- [GitHub Copilot for IT: Access Provisioning Guide](https://netapp.service-now.com/kb_view.do?sys_kb_id=4255195387b37d50cac6a86e0ebb351b)
+- [GitHub Copilot Setup Guide for different IDEs](https://netapp.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsys_kb_id%3Ddfd71ae787fbb190cac6a86e0ebb35b6)
 
-- [GitHub Documentation on Copilot](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
-- [Article: GitHub Copilot to Become a Happier and More Productive Developer](https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/)
-- [Guide: GitHub Copilot in VS Code](https://code.visualstudio.com/docs/editor/github-copilot)
 
-Now that you have a comprehensive introduction to GitHub Copilot and its benefits, you can start your journey towards more enhanced and efficient coding. Happy coding! :keyboard:
+
+---
+Explore these resources to enhance your GitHub Copilot experience and happy coding! :keyboard:
+For any queries or assistance, please feel free to reach us at ng-it-genai-coe@netapp.com.
