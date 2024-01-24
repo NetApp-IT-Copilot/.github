@@ -58,7 +58,6 @@ Once you've completed the above prerequisites, you can go to this [Github Copilo
 
 
 > Please visit the provided links to understand our [AI Tools, IP Protection Ground Rules](https://netapp.sharepoint.com/sites/LegalCentral/SitePages/AI-Tools-Ground-Rules--Protect-our-IP.aspx), and [Information Classification Policy](https://netapp.sharepoint.com/sites/LegalCentral/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLegalCentral%2FShared%20Documents%2FDataGovernance%2FNetApp%20Information%20Classification%20Policy%2Epdf&parent=%2Fsites%2FLegalCentral%2FShared%20Documents%2FDataGovernance&p=true&ga=1).
-{.is-info}
 
 
 ## Access GitHub Copilot Community 👥
