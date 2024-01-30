@@ -29,7 +29,7 @@ Rest assured, GitHub Copilot is not just a dumb code generator; it can understan
 
 As a first step, you need to have an Active Github account 🧑‍💻 which is linked with your NetApp Email ID. Hence the below 3 Prerequisites need to be completed : 
 
-1. **Link NetApp email with GitHub Account**: If you haven't already, please create a GitHub account using your NetApp email. If you already have a personal GitHub account, you can simply add your SSO NetApp email address (username@netapp.com) by visiting this [GitHub](https://github.com/) and navigating to 'Settings → Emails' 📩.
+1. **Link NetApp email with GitHub Account**: If you haven't already, please create a GitHub account using your NetApp email. If you already have a personal GitHub account, you can simply add your NetApp email address (firstname.lastname@netapp.com) by visiting this [GitHub](https://github.com/) and navigating to 'Settings → Emails' 📩.
 2. **Enable Two-Factor Authentication**: Ensure that your GitHub account has Two-Factor Authentication (2FA) enabled 🔐. You can verify this by visiting this [link](https://github.com/settings/security) and checking for a green 'Enabled' tag next to Two-Factor Authentication.
 3. **Join NetApp GitHub SSO NG Group**: Join the ng-github-users@netapp.com group by visiting this [link](https://neat.hq.netapp.com/nag). Please note that it can take up to an hour for Azure to sync with the Nag tool ⏱️.
 
@@ -40,8 +40,8 @@ Once you've completed the above prerequisites, you can go to this [Github Copilo
 <u><i>This form requires below key details</u></i>: 
 
 
-1) **Request Intake**: Start by filling out the form with your Github Account ID (Follow the prerequisites) and provide some high-level details on your need for GitHub Copilot (How are you planning to utilize it).  
-2) **Manager's Approval**: Just take a formal email approval from your reporting Manager that you require Github Copilot IT and attach the same in the form.
+1) **GitHub Username**: Start by filling out the form with your GitHub Account Username (Follow the prerequisites).
+2) **Your need for GitHub Copilot**: Provide some high-level details on your need for GitHub Copilot (How are you planning to utilize it?).  
 
 <u><i>Once you submit the form the access provisioning will take up to 2 days as below</u></i>:
 
