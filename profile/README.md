@@ -27,15 +27,14 @@ Rest assured, GitHub Copilot is not just a dumb code generator; it can understan
 
 ### 📝 Prerequisites
 
-As a first step, you need to have an Active Github account 🧑‍💻 which is linked with your NetApp Email ID. Hence the below 3 Prerequisites need to be completed : 
+As a first step, you need to have an Active Github account 🧑‍💻 which is linked with your NetApp Email ID. Hence the below 2 Prerequisites need to be completed : 
 
 1. **Link NetApp email with GitHub Account**: If you haven't already, please create a GitHub account using your NetApp email. If you already have a personal GitHub account, you can simply add your NetApp email address (firstname.lastname@netapp.com) by visiting this [GitHub](https://github.com/) and navigating to 'Settings → Emails' 📩.
-2. **Enable Two-Factor Authentication**: Ensure that your GitHub account has Two-Factor Authentication (2FA) enabled 🔐. You can verify this by visiting this [link](https://github.com/settings/security) and checking for a green 'Enabled' tag next to Two-Factor Authentication.
-3. **Join NetApp GitHub SSO NG Group**: Join the ng-github-users@netapp.com group by visiting this [link](https://neat.hq.netapp.com/nag). Please note that it can take up to an hour for Azure to sync with the Nag tool ⏱️.
+2. **Enable Two-Factor Authentication**: Ensure that your GitHub account has Two-Factor Authentication (2FA) enabled 🔐. You can verify this by visiting this [link](https://github.com/settings/security) and checking for a green 'Enabled' tag next to Two-Factor Authentication. For further help in configuring 2FA, please check [This Guide](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 
 ### 📥 Request for Access
 
-Once you've completed the above prerequisites, you can go to this [Github Copilot Intake Form](https://forms.office.com/r/nHefgFk4zf) 📋
+Once you've completed the above prerequisites, you can go to this [Github Copilot Intake Form](https://netapp.sharepoint.com/sites/GitHubCopilot/SitePages/GitHub-Copilot-intake-form.aspx?csf=1&web=1&e=vynSZ4&cid=7384e9b7-2cde-41dc-a21a-d1c1674cb36c#step-2) 📋
 
 <u><i>This form requires below key details</u></i>: 
 
@@ -64,7 +63,7 @@ Once you've completed the above prerequisites, you can go to this [Github Copilo
 
 Once you've been granted access 🤝🏻  to GitHub Copilot for IT, you'll spot its presence on your active [organization's list](https://github.com/settings/organizations). Additionally,  you need to check if your GitHub ID has been added to the [Active Copilot User List](https://github.com/orgs/NetApp-IT-Copilot/teams/active-users) 🌍.  
  
-If you have received confirmation on the access but are still not able to locate your GitHub ID under the active copilot user list. please reachout to ng-it-genai-coe@netapp.com.
+If you have received confirmation on the access but are still not able to locate your GitHub ID under the active copilot user list or getting a 404 error. please reach out to ng-it-genai-coe@netapp.com.
  
 For an in-depth understanding of GitHub Copilot and its capabilities 💪 , we recommend visiting the official GitHub Copilot documentation at About [GitHub Copilot Individual](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-individual).
 
