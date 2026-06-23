@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.github.com/features/copilot/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GitHub_Copilot_logo.svg/360px-GitHub_Copilot_logo.svg.png" alt="drawing" width="200"/>
+<img src="https://brand.github.com/_next/static/media/copilot-01.0e1505e6.png" alt="drawing" width="200"/>
   </a>
 </p>
 
