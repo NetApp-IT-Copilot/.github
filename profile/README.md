@@ -34,7 +34,7 @@ As a first step, you need to have an Active Github account 🧑‍💻 which is 
 
 1. **Link NetApp email with GitHub Account**: If you haven't already, please create a GitHub account using your NetApp email. If you already have a personal GitHub account, you can simply add your NetApp email address (firstname.lastname@netapp.com) by visiting this [GitHub](https://github.com/) and navigating to 'Settings → Emails' 📩.
 2. **Enable Two-Factor Authentication**: Ensure that your GitHub account has Two-Factor Authentication (2FA) enabled 🔐. You can verify this by visiting this [link](https://github.com/settings/security) and checking for a green 'Enabled' tag next to Two-Factor Authentication. For further help in configuring 2FA, please check [This Guide](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
-3. Self-subscribe to the ng-github-users group (if not already a member) at [https://nag.netapp.com/](https://nag.netapp.com/)
+3. Self-subscribe to the **ng-github-users** group (if not already a member) at [https://nag.netapp.com/](https://nag.netapp.com/)
 
 ### 📥 Request for Access
 
